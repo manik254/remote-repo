@@ -5,4 +5,4 @@ pass
 mul x,y
 return x*y
 div x,y
-pass
+return x/y
