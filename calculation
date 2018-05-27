@@ -3,6 +3,6 @@ pass
 sub x,y
 pass
 mul x,y
-pass
+return x*y
 div x,y
 pass
