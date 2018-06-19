@@ -1,7 +1,7 @@
 add x,y
 pass
 sub x,y
-pass
+return x-y;
 mul x,y
 return x*y
 div x,y
